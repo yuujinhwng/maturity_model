@@ -108,7 +108,6 @@
   text="Maturity Model"
   fontSize={10}
   color="#ffffff" 
-  font="Arial" 
   shadowColor="#000000" 
 />
 
