@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@threlte/gltf": "^2.0.0"
+    "@threlte/gltf": "^2.0.1",
+    "svelte-tweakpane-ui": "^1.2.1"
   }
 }
